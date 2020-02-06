@@ -1,0 +1,14 @@
+GitHub
+
+1/
+Link to a remote repository (gitHub)
+syntax: git remote add origin <remote repository URL>
+
+2/Push files onto github.
+push local repository to the remote repository using the -u option
+
+syntax: git push -u origin master
+
+Note: in this case
+origin is the name of the remote repository
+master is the branch name of the remote repository

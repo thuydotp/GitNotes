@@ -1,0 +1,30 @@
+GIT
+
+1/ Init Git
+syntax: git init
+
+2/Show untracked/tracked files by git
+syntax: git status
+
+3/
+a/ 	 Add a file to become tracked by git
+syntax: git add <file name>
+
+b/	 Add all untracked file to become tracked by git
+syntax: git add .
+
+
+4/ Commit the change to staging
+syntax: git commit -m "<your comments>"
+
+5/ To see what commits we have made
+syntax: git log
+
+6/Check the different of a file
+syntax: git diff <filename>
+
+7/Rollback a file to the last previous version
+syntax: git checkout <filename>
+
+8/Undo all the file have just been tracked (from Staging Area)
+syntax: git rm --cached -r .

@@ -1,0 +1,3 @@
+Git Ignore
+Undo all the file have just been tracked
+syntax: git rm --cached -r .

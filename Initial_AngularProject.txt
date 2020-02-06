@@ -1,0 +1,16 @@
+https://angular.io/guide/setup-local
+
+1/ install latest stable node (node-v12.14.1)
+npm install npm@latest -g
+
+2/ Install the Angular CLI
+npm install -g @angular/cli (6.13.4)
+
+3/ Create a workspace and initial application (SongILike)
+ng new SongILike
+
+4/  Run the application
+ng serve --open
+
+5/ Install Angular Material
+ng add @angular/material
