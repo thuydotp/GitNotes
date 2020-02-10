@@ -1,0 +1,17 @@
+GIT BRANCH & MERGing
+
+BRANCH
+
+1/ Create new branch
+syntax: git branch <branch name>
+
+2/ View all branches
+syntax: git branch
+
+3/ Switch to a specific branch
+syntax: git checkout <branch name>
+
+
+MERGING
+
+

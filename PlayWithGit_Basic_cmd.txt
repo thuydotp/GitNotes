@@ -13,7 +13,6 @@ syntax: git add <file name>
 b/	 Add all untracked file to become tracked by git
 syntax: git add .
 
-
 4/ Commit the change to staging
 syntax: git commit -m "<your comments>"
 

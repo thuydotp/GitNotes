@@ -1,0 +1,43 @@
+BASIC CMD
+
+1/ Display all the directories (folders at your current directory level)
+Syntax: dir
+
+2/ Change directory
+Syntax: cd <URL of the directory>
+
+3/ Create new folder
+Syntax: mkdir <folder name>
+
+4/ Delete a folder
+Syntax: rmdir /s <folder name>
+
+5/ Create a new file
+Syntax: type nul > filename.txt.
+
+6/Create a file containing certain text.
+
+a/ The 1st way:
+Syntax: copy con filename.txt
+Enter then type our desired text
+To end the text, press Ctrl + Z
+
+b/ The 2nd way:
+Syntax: echo [enter your text here] > filename.txt.
+
+7/ Create a file that's a certain size.
+Syntax: fsutil file createnew filename.txt 1000.
+
+Replace filename with the desired file name, and 1000 with the actual number of bytes you'd like the file to be.
+
+8/Deleting a File
+Syntax: del filename.txt
+
+
+
+
+- References:
+
+https://www.instructables.com/id/Creating-Files-Using-Windows-DOS-Commands/
+
+https://www.wikihow.com/Create-and-Delete-Files-and-Directories-from-Windows-Command-Prompt#Creating-a-File_sub

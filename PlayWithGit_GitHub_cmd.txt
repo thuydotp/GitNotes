@@ -12,3 +12,6 @@ syntax: git push -u origin master
 Note: in this case
 origin is the name of the remote repository
 master is the branch name of the remote repository
+
+3/ Clone code from a remote repository
+Syntax: git clone <remote repository URL>
