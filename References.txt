@@ -1,0 +1,5 @@
+References:
+
+Angular Font Awesome
+
+https://www.itsolutionstuff.com/post/angular-font-awesome-how-to-install-font-awesome-in-angular-8example.html
